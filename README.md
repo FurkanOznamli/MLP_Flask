@@ -5,8 +5,8 @@ Machine Learning (Multiple Linear Regression) + Flask Web Uygulaması
 Buraya arayüzün ekran görüntüsünü koy:
 📌 Önerilen dosya adı: static/ui_screenshot.png
 
-![Uygulama Arayüzü](<img width="1918" height="916" alt="image" src="https://github.com/user-attachments/assets/ffb44bca-5a75-47d3-9c5f-69f803add11e" />
-)
+<img width="1918" height="916" alt="image" src="https://github.com/user-attachments/assets/ffb44bca-5a75-47d3-9c5f-69f803add11e" />
+
 
 🎯 Projenin Amacı
 
@@ -43,8 +43,8 @@ Ayrıca öznitelik sayısı 7 olup ödev gereği belirlenen maksimum 10 sınır�
 📌 Kayıp Veri (Missing Values) Analizi
 
 .isnull().sum() ile veri incelendi:
-![Misiing Values Sonuçları](<img width="1006" height="686" alt="image" src="https://github.com/user-attachments/assets/d4563236-db59-4dfe-839f-fca767fb4880" />
-)
+<img width="1006" height="686" alt="image" src="https://github.com/user-attachments/assets/d4563236-db59-4dfe-839f-fca767fb4880" />
+
 
 
 Hiçbir eksik veri bulunmadığı için doldurma (imputation) işlemi yapılmasına gerek olmadı.
@@ -92,8 +92,8 @@ Sonuç:
 Buraya OLS özet çıktısının ekran görüntüsünü koyabilirsin:
 📌 Önerilen dosya adı: static/ols_summary.png
 
-![OLS Sonuçları](<img width="700" height="574" alt="image" src="https://github.com/user-attachments/assets/48405bce-ce8c-4629-a3c5-a771db801639" />
-)
+<img width="700" height="574" alt="image" src="https://github.com/user-attachments/assets/48405bce-ce8c-4629-a3c5-a771db801639" />
+
 
 3️⃣ Model Kurulumu ve Değerlendirme
 
