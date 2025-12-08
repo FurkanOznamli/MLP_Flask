@@ -1,9 +1,7 @@
 🧠 Sigorta Ücreti Tahmin Modeli
 Machine Learning (Multiple Linear Regression) + Flask Web Uygulaması
-🖼 Proje Önizlemesi
 
-Buraya arayüzün ekran görüntüsünü koy:
-📌 Önerilen dosya adı: static/ui_screenshot.png
+🖼 Proje Önizlemesi
 
 <img width="1918" height="916" alt="image" src="https://github.com/user-attachments/assets/ffb44bca-5a75-47d3-9c5f-69f803add11e" />
 
