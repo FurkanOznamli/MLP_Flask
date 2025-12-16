@@ -87,8 +87,7 @@ Sonuç:
 ✔ Bazı dummy sütunları elendi
 ✔ En düşük hata veren optimum model elde edildi
 
-Buraya OLS özet çıktısının ekran görüntüsünü koyabilirsin:
-📌 Önerilen dosya adı: static/ols_summary.png
+
 
 <img width="700" height="574" alt="image" src="https://github.com/user-attachments/assets/48405bce-ce8c-4629-a3c5-a771db801639" />
 
